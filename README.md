@@ -27,8 +27,7 @@ Automated_Document_Intelligence_OCR_LLM
 └── documents
     ├── ITRV-1_r.pdf
     └── payslip.jpg
-
-
+```
 ---
 
 ## Prerequisites
