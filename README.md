@@ -19,16 +19,14 @@ This project simulates how financial institutions validate income documents for 
 
 ## Project Structure
 
-Automated_Document_Intelligence_OCR_LLM/
-│
+```text
+Automated_Document_Intelligence_OCR_LLM
 ├── document_info_extraction.py
 ├── requirements.txt
 ├── README.md
-├── summary.xlsx
-└── documents/
-├── sample1.pdf
-├── sample2.pdf
-├── sample3.jpg
+└── documents
+    ├── ITRV-1_r.pdf
+    └── payslip.jpg
 
 
 ---
